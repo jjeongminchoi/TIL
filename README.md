@@ -10,16 +10,22 @@
 
 **:book: Contents**
 1. [Java](#1-java)
-2. [Spring](#2-Spring)
+2. [Spring](#2-spring)
 3. [etc](#3-etc)
 
 ---
 
 ## 1. Java
-- [callByValue & callByReference](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/callby)
-- [this 키워드](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/this_)
+- [callByValue & callByReference](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/callby) 🥁[블로그 포스팅](https://choicode.tistory.com/20)
+- [this 키워드](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/this_) 🥁[블로그 포스팅](https://choicode.tistory.com/24)
+- JVM Architecture 🥁[블로그 포스팅](https://choicode.tistory.com/19)
+- JDK란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/17)
+- Java 구동 원리 🥁[블로그 포스팅](https://choicode.tistory.com/16)
 
 ## 2. Spring
+- MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
 
 ## 3. etc
 - [AsciicodeChange](https://github.com/jjeongminchoi/TIL/blob/main/TIL/src/TIL/java/etc/AsciicodeChange.java)
+
+---
