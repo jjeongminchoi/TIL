@@ -1,4 +1,4 @@
-package TIL;
+package TIL.java.callby;
 
 public class CallByReference {
 	

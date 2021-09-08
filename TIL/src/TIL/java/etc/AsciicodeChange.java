@@ -1,4 +1,4 @@
-package TIL;
+package TIL.java.etc;
 
 import java.util.Scanner;
 
