@@ -16,8 +16,9 @@
 ---
 
 ## 1. Java
-- [callByValue & callByReference](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/callby) 🥁[블로그 포스팅](https://choicode.tistory.com/20)
+- 자바 컬렉션(Collection)이란? 🥁[블로그 포스팅](https://choicode.tistory.com/25)
 - [this 키워드](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/this_) 🥁[블로그 포스팅](https://choicode.tistory.com/24)
+- [callByValue & callByReference](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/callby) 🥁[블로그 포스팅](https://choicode.tistory.com/20)
 - JVM Architecture 🥁[블로그 포스팅](https://choicode.tistory.com/19)
 - JDK란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/17)
 - Java 구동 원리 🥁[블로그 포스팅](https://choicode.tistory.com/16)
