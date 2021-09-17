@@ -11,7 +11,7 @@
 **:book: Contents**
 1. [Java](#1-java)
 2. [Spring](#2-spring)
-3. [Oracle](#3-oracle)
+3. [DB](#3-db)
 4. [etc](#4-etc)
 
 ---
@@ -27,8 +27,9 @@
 ## 2. Spring
 - MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
 
-## 3. Oracle
+## 3. DB
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
+- 인덱스(Index) 사용 예시 (생성, 조회, 삭제, 리빌드) 🥁[블로그 포스팅](https://choicode.tistory.com/28)
 
 ## 4. etc
 - [AsciicodeChange](https://github.com/jjeongminchoi/TIL/blob/main/TIL/src/TIL/java/etc/AsciicodeChange.java)
