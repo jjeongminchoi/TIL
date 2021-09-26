@@ -12,7 +12,8 @@
 1. [Java](#1-java)
 2. [Spring](#2-spring)
 3. [DB](#3-db)
-4. [etc](#4-etc)
+4. [개발환경](#4-개발환경)
+5. [etc](#5-etc)
 
 ---
 
@@ -32,7 +33,10 @@
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
 - 인덱스(Index) 사용 예시 (생성, 조회, 삭제, 리빌드) 🥁[블로그 포스팅](https://choicode.tistory.com/28)
 
-## 4. etc
+## 4. 개발환경
+- [IntelliJ] 포트 변경 방법 (ft. localhost:8080 로그인 창) 🥁[블로그 포스팅](https://choicode.tistory.com/30)
+
+## 5. etc
 - [AsciicodeChange](https://github.com/jjeongminchoi/TIL/blob/main/TIL/src/TIL/java/etc/AsciicodeChange.java)
 
 ---
