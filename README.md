@@ -28,6 +28,7 @@
 ## 2. Spring
 - MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
 - 스프링 빈(Bean)이란? 🥁[블로그 포스팅](https://choicode.tistory.com/29)
+- IoC(Inversion of Control : 제어의 역전)컨테이너란? 🥁[블로그 포스팅](https://choicode.tistory.com/31)
 
 ## 3. DB
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
