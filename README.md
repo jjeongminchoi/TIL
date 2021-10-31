@@ -34,6 +34,7 @@
 ## 3. DB
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
 - 인덱스(Index) 사용 예시 (생성, 조회, 삭제, 리빌드) 🥁[블로그 포스팅](https://choicode.tistory.com/28)
+- MyBatis 사용 시 <!CDATA[ ... ]]> 사용 이유? 🥁[블로그 포스팅](https://choicode.tistory.com/33)
 
 ## 4. 개발환경
 - [IntelliJ] 포트 변경 방법 (ft. localhost:8080 로그인 창) 🥁[블로그 포스팅](https://choicode.tistory.com/30)
