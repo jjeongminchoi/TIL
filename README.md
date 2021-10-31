@@ -24,6 +24,7 @@
 - JVM Architecture 🥁[블로그 포스팅](https://choicode.tistory.com/19)
 - JDK란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/17)
 - Java 구동 원리 🥁[블로그 포스팅](https://choicode.tistory.com/16)
+- 생성자란? 🥁[블로그 포스팅](https://choicode.tistory.com/32)
 
 ## 2. Spring
 - MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
