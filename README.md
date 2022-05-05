@@ -9,15 +9,19 @@
 <br/>
 
 **:book: Contents**
-1. [Java](#1-java)
-2. [Spring](#2-spring)
-3. [DB](#3-db)
-4. [개발환경](#4-개발환경)
-5. [etc](#5-etc)
+1. [HTTP](#1-http)
+2. [Java](#2-java)
+3. [Spring](#3-spring)
+4. [DB](#4-db)
+5. [개발환경](#5-개발환경)
+6. [etc](#6-etc)
 
 ---
 
-## 1. Java
+## 1. HTTP
+- HTTP 상태코드(3xx 리다이렉션)
+
+## 2. Java
 - 자바 컬렉션(Collection)이란? 🥁[블로그 포스팅](https://choicode.tistory.com/25)
 - [this 키워드](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/this_) 🥁[블로그 포스팅](https://choicode.tistory.com/24)
 - [callByValue & callByReference](https://github.com/jjeongminchoi/TIL/tree/main/TIL/src/TIL/java/callby) 🥁[블로그 포스팅](https://choicode.tistory.com/20)
@@ -26,18 +30,18 @@
 - Java 구동 원리 🥁[블로그 포스팅](https://choicode.tistory.com/16)
 - 생성자란? 🥁[블로그 포스팅](https://choicode.tistory.com/32)
 
-## 2. Spring
+## 3. Spring
 - MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
 - 스프링 빈(Bean)이란? 🥁[블로그 포스팅](https://choicode.tistory.com/29)
 - IoC(Inversion of Control : 제어의 역전)컨테이너란? 🥁[블로그 포스팅](https://choicode.tistory.com/31)
 
-## 3. DB
+## 4. DB
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
 - 인덱스(Index) 사용 예시 (생성, 조회, 삭제, 리빌드) 🥁[블로그 포스팅](https://choicode.tistory.com/28)
 - MyBatis 사용 시 <!CDATA[ ... ]]> 사용 이유? 🥁[블로그 포스팅](https://choicode.tistory.com/33)
 
-## 4. 개발환경
+## 5. 개발환경
 - [IntelliJ] 포트 변경 방법 (ft. localhost:8080 로그인 창) 🥁[블로그 포스팅](https://choicode.tistory.com/30)
 
-## 5. etc
+## 6. etc
 - [AsciicodeChange](https://github.com/jjeongminchoi/TIL/blob/main/TIL/src/TIL/java/etc/AsciicodeChange.java)
