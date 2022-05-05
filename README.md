@@ -19,7 +19,7 @@
 ---
 
 ## 1. HTTP
-- HTTP 상태코드(3xx 리다이렉션)
+- [HTTP 상태코드(3xx 리다이렉션)](https://github.com/jjeongminchoi/TIL/blob/main/HTTP/%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C%EB%9E%80%20(3xx%20%EB%A6%AC%EB%8B%A4%EC%9D%B4%EB%A0%89%EC%85%98).md)
 
 ## 2. Java
 - 자바 컬렉션(Collection)이란? 🥁[블로그 포스팅](https://choicode.tistory.com/25)
