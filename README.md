@@ -29,6 +29,7 @@
 - JDK란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/17)
 - Java 구동 원리 🥁[블로그 포스팅](https://choicode.tistory.com/16)
 - 생성자란? 🥁[블로그 포스팅](https://choicode.tistory.com/32)
+- java scheduler 중복 호출 이슈 해결하기 🥁[블로그 포스팅](https://choicode.tistory.com/36)
 
 ## 3. Spring
 - MVC 패턴 & Spring MVC Architecture & Spring 설정 파일 🥁[블로그 포스팅](https://choicode.tistory.com/23)
