@@ -40,6 +40,9 @@
 - 데이터베이스(DB) 인덱스(Index) 란 무엇인가? 🥁[블로그 포스팅](https://choicode.tistory.com/27)
 - 인덱스(Index) 사용 예시 (생성, 조회, 삭제, 리빌드) 🥁[블로그 포스팅](https://choicode.tistory.com/28)
 - MyBatis 사용 시 <!CDATA[ ... ]]> 사용 이유? 🥁[블로그 포스팅](https://choicode.tistory.com/33)
+- 우왕좌왕 좌충우돌 Slow query 개선 경험기 🥁[블로그 포스팅](https://choicode.tistory.com/37)
+- [H2] JPA User 엔티티, 테이블 drop 에러 🥁[블로그 포스팅](https://choicode.tistory.com/38)
+- [Procedure] 동시성 문제, GOTO를 활용한 PK에러 해결 🥁[블로그 포스팅](https://choicode.tistory.com/39)
 
 ## 5. 개발환경
 - [IntelliJ] 포트 변경 방법 (ft. localhost:8080 로그인 창) 🥁[블로그 포스팅](https://choicode.tistory.com/30)
